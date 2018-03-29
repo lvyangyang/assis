@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  test_routine.cpp
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(843): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(844): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(845): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(846): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(847): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(848): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(849): warning C4409: 非法的指令大小
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\test_routine.cpp(850): warning C4409: 非法的指令大小
+  processorinfo.cpp
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\processorinfo.cpp(45): warning C4101: “myprocessorinfo”: 未引用的局部变量
+  mytimer.cpp
+  mem_benchmarkdll.cpp
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(96): warning C4244: “=”: 从“double”转换到“mem_benchmark::iter_t”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(102): warning C4244: “=”: 从“double”转换到“iter_t”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(256): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(273): warning C4244: “=”: 从“UINT64”转换到“iter_t”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(282): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(388): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(394): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdll\mem_benchmarkdll.cpp(398): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  common.cpp
+  正在生成代码...
+  dllmain.cpp
+    正在创建库 C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdll.lib 和对象 C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdll.exp
+  mem_benchmarkdll.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdll.dll
+  mem_benchmarkdll.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdll.pdb (Full PDB)

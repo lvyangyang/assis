@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  mem_benchmarkdlltest.cpp
+mem_benchmarkdlltest.cpp(34): warning C4129: “s”: 不可识别的字符转义序列
+  正在生成代码
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  mem_benchmarkdlltest.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Release\mem_benchmarkdlltest.exe
+  mem_benchmarkdlltest.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Release\mem_benchmarkdlltest.pdb (Full PDB)

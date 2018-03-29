@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  mem_benchmarkdlltest.cpp
+c:\users\fenhuo\documents\visual studio 2015\projects\mem_benchmark\mem_benchmarkdlltest\mem_benchmarkdlltest.cpp(34): warning C4129: “s”: 不可识别的字符转义序列
+  mem_benchmarkdlltest.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdlltest.exe
+  mem_benchmarkdlltest.vcxproj -> C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\mem_benchmark\Debug\mem_benchmarkdlltest.pdb (Full PDB)

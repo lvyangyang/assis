@@ -1,0 +1,96 @@
+﻿  stdafx.cpp
+  diskmarkdll.cpp
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(206): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(249): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(207): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(207): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(207): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(215): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(215): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(215): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(242): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(242): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(242): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(250): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(250): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(250): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(281): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(281): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(281): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(290): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(290): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(290): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(316): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(316): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(316): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(325): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(325): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(325): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(354): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(388): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(396): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(355): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(355): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(355): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(363): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(363): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(363): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(389): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(389): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(389): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(397): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“UINT64”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(397): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(397): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(445): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(451): warning C4244: “初始化”: 从“UINT64”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(467): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(488): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(547): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(598): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(559): warning C4101: “j”: 未引用的局部变量
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(676): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(702): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\fenhuo\documents\visual studio 2015\projects\diskmark\diskmarkdll\diskmarkdll.cpp(746): warning C4018: “<”: 有符号/无符号不匹配
+  dllmain.cpp
+    正在创建库 C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\diskmark\Debug\diskmarkdll.lib 和对象 C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\diskmark\Debug\diskmarkdll.exp
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+diskmarkdll.obj : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __calloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+diskmarkdll.obj : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+diskmarkdll.obj : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __malloc_dbg
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+diskmarkdll.obj : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(stdthrow.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(syserror.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 __CrtDbgReportW
+libcpmtd.lib(_tolower.obj) : error LNK2019: 无法解析的外部符号 __wcsdup_dbg，该符号在函数 __Getctype 中被引用
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: 无法解析的外部符号 __wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: 无法解析的外部符号 __realloc_dbg，该符号在函数 "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned int)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPAV123@PAVfacet@23@I@Z) 中被引用
+C:\Users\fenhuo\Documents\Visual Studio 2015\Projects\diskmark\Debug\diskmarkdll.dll : fatal error LNK1120: 6 个无法解析的外部命令
