@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>E:\Program Files\zlib\include;E:\Program Files\openssl-1.1.0f\include;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\Program Files\zlib\lib\x86\debug;E:\Program Files\openssl-1.1.0f\lib;$(LibraryPath)</LibraryPath>
+    <_PropertySheetDisplayName>debug_static32</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>zlibstat.lib;libcryptoMTd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
